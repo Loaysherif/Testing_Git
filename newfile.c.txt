@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Line 1 Testing Repo
 Line 2 
+=======
+Line 2 Master
+>>>>>>> ec1af01af437c1e8d788ce4f984af4d2bc4a6727
