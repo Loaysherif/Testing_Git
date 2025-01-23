@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 Line 1 Testing Repo
 Line 2 
+<<<<<<< HEAD
 Line 1 on branch
 Line 2 on branch
 
 
 	
+=======
+=======
+Line 2 Master
+>>>>>>> ec1af01af437c1e8d788ce4f984af4d2bc4a6727
+>>>>>>> main
